@@ -9,18 +9,18 @@ To create a pull request to this fork, follow these
 steps.
 
 * Fork this repository
-*1- Clone your fork 
+* Clone your fork
     - Verify that you've cloned your fork and not this
       repository by running `git remote -v`; you should see
       the SSH URL to your own repository in the `origin`
       remote.
-* 2-Create a new branch from `main`
+* Create a new branch from `main`
     - The name of the branch is not important, as long as it's not
       `main`
-* 3-Commit a file called `<your_username>.txt`
+* Commit a file called `<your_username>.txt`
     - The content can be anything you want, but keep it friendly!
-*4- Push your new branch to your fork
-* 5- Go to `https://github.com/<your_username>/forkme/pulls` and create
+* Push your new branch to your fork
+* Go to `https://github.com/<your_username>/forkme/pulls` and create
   a pull request to this repository
 
 If everything has gone according to plans, you should see your pull
